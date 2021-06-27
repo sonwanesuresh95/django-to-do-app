@@ -7,22 +7,22 @@ Simple TO-DO list application coded in django, python
 ## Usage
 To clone project do:
 ```
-$ git clone https://github.com/sonwanesuresh95/django-to-do-app.git
+git clone https://github.com/sonwanesuresh95/django-to-do-app.git
 ```
 change directory
 ```
-$ cd django-to-do-app
+cd django-to-do-app
 ```
 Install requirements.txt
 ```
-$ pip install requirements.txt
+pip install requirements.txt
 ```
 Make migrations and migrate
 ```
-$ python manage.py makemigrations
-$ python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
 ```
 Run Server
 ```
-$ python manage.py runserver
+python manage.py runserver
 ```
