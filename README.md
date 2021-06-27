@@ -15,7 +15,7 @@ cd django-to-do-app
 ```
 Install requirements.txt
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 Make migrations and migrate
 ```
